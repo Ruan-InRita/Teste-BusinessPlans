@@ -1,0 +1,163 @@
+@media only screen and (max-width: 5000px) and (min-width: 1300px){
+    
+    .banner{
+        width: 1300px;
+        height: auto;
+        background-color: #005eab;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .content{
+        background-color: rgb(247, 244, 244);
+        width: 1300px;
+
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-content: center;
+    }
+    .title{
+        width: 1200px;
+        padding-left: 1%;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }
+    .plans{
+        width: 1300px;
+        height: 45vw;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0px;
+    }
+    .a-banner{
+        font-family: Poppins;
+        font-weight: 900;
+        font-size: 20px;
+        color:#222;
+    }
+    .img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 100%;
+        max-height: 100%;
+        
+        width:auto ;
+    }
+    .content .cards .img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 100%;
+        max-height: 100%;
+        height: 100%;
+        width: auto;
+    }
+    .content .cards{
+        margin: 1%;
+        margin-top: 2%;
+        height: 365px;
+    }
+    .content .pictures{
+        width: 26.5%;
+    }
+    .content .folhas{
+        width: 26.5%;
+    }
+    .delimit-img h1{
+        position: relative;
+        top: 100px;
+        font-size: 300%;
+        font-family: Poppins;
+    
+    }   
+    
+    .delimit-img p{
+        position: relative;
+        top: 100px;
+        font-size: 150%;
+        font-family: Poppins;
+    }
+    .banner .btn-banner:hover{
+        width: 22%;
+        left: 39%;
+        border: 15px solid rgba(129, 236, 231,.6);
+        border-radius: 20px;
+        transition-timing-function: step-start;
+        transition-timing-function: linear;
+        background-color: rgba(129, 236, 231);
+     
+    }
+
+}
+
+@media only screen and (max-width: 1300px){
+    .banner .btn-banner:hover{
+        width: 22%;
+        left: 39%;
+        border: 1% solid rgba(129, 236, 231,.6);
+        border-radius: 20px;
+        transition-timing-function: step-start;
+        transition-timing-function: linear;
+        background-color: rgba(129, 236, 231);
+     
+    }
+    .banner{
+        width: 100%;
+        height: auto;
+        background-color: #005eab;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 100%;
+        max-height: 100%;
+        width: 100%;
+    }
+
+    .content{
+        background-color: rgb(247, 244, 244);
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-content: center;
+    }
+    .title{
+        width: 100%;
+        padding-left: 5%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .plans{
+        margin-top: 5%;
+        width: 100%;
+        height: 45vw;
+    }
+    .delimit-img h1{
+        position: relative;
+        top: 15%;
+        font-size: 150%;
+        font-family: Poppins;
+    }   
+    
+    .delimit-img p{
+        position: relative;
+        top: 15%;
+        font-size: 100%;
+        font-family: Poppins;
+    }
+
+}

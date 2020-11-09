@@ -1,0 +1,112 @@
+@font-face{
+    font-family: Poppins;
+    src: url(scr/fonts/Poppins-Black.tff);
+    font-weight: 900;
+}
+@font-face{
+    font-family: Poppins;
+    src: url(scr/fonts/Poppins-BlackItalic.tff);
+    font-style: italic;
+    font-weight: 900;
+
+}
+@font-face{
+    font-family: Poppins;
+    src: url(scr/fonts/Poppins-Bold.tff);
+    font-weight: 700;
+}
+@font-face{
+    font-family: Poppins;
+    src: url(scr/fonts/Poppins-BoldItalic.tff);
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face{
+    font-family: Poppins;
+    src: url(scr/fonts/Poppins-ExtraBold.tff);
+    font-weight: 800;
+}
+@font-face{
+    font-family: Poppins;
+    src: url(scr/fonts/Poppins-ExtraBoldItalic.tff);
+    font-style: italic;
+    font-weight: 800;
+}
+
+@font-face{
+    font-family: Poppins;
+    src: url(scr/fonts/Poppins-ExtraLight.tff);
+    font-weight: 200;
+}
+@font-face{
+    font-family: Poppins;
+    src: url(scr/fonts/Poppins-ExtraLightItalic.tff);
+    font-style: italic;
+    font-weight: 200;
+}
+
+@font-face{
+    font-family: Poppins;
+    src: url(scr/fonts/Poppins-Italic.tff);
+    font-style: italic;
+}
+
+@font-face{
+    font-family: Poppins;
+    src: url(scr/fonts/Poppins-Light.tff);
+    font-weight: 300;
+}
+
+@font-face{
+    font-family: Poppins;
+    src: url(scr/fonts/Poppins-LightItalic.tff);
+    font-style: italic;
+    font-weight: 300;
+}
+
+@font-face{
+    font-family: Poppins;
+    src: url(scr/fonts/Poppins-Medium.tff);
+    font-weight: 500;
+}
+@font-face{
+    font-family: Poppins;
+    src: url(scr/fonts/Poppins-MediumItalic.tff);
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face{
+    font-family: Poppins;
+    src: url(scr/fonts/Poppins-Regular.tff);
+    font-weight: 400;
+}
+@font-face{
+    font-family: Poppins;
+    src: url(scr/fonts/Poppins-RegularItalic.tff);
+    font-style: italic;
+    font-weight: 400;
+}
+
+@font-face{
+    font-family: Poppins;
+    src: url(scr/fonts/Poppins-SemiBold.tff);
+    font-weight: 600;
+}
+@font-face{
+    font-family: Poppins;
+    src: url(scr/fonts/Poppins-SemiBoldItalic.tff);
+    font-style: italic;
+    font-weight: 600;
+}
+
+@font-face{
+    font-family: Poppins;
+    src: url(scr/fonts/Poppins-Thin.tff);
+    font-weight: 100;
+}
+@font-face{
+    font-family: Poppins;
+    src: url(scr/fonts/Poppins-ThinItalic.tff);
+    font-style: italic;
+    font-weight: 100;
+}
